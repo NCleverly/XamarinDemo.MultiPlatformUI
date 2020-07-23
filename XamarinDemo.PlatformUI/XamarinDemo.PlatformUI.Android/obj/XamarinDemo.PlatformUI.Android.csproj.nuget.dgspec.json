@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj": {}
+    "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj": {}
   },
   "projects": {
-    "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj": {
+    "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj",
+        "projectUniqueName": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj",
         "projectName": "XamarinDemo.PlatformUI.Android",
-        "projectPath": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj",
+        "projectPath": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/XamarinDemo.PlatformUI.Android.csproj",
         "packagesPath": "/Users/cloudmovie/.nuget/packages/",
-        "outputPath": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/obj/",
+        "outputPath": "/Users/cloudmovie/Projects/XamarinDemo.PlatformUI/XamarinDemo.PlatformUI.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
